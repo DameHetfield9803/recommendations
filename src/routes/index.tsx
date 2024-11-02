@@ -102,7 +102,7 @@ export default function Home() {
               title="Macbook Air 15 M3"
               imgSrc="https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba15-midnight-select-202306?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1684518479433"
               text="For people who are okay with MacOS and want to have fantastic battery life and NO fan noise, with a bigger screen"
-              price={1399}
+              price={1899}
               link="https://www.apple.com/sg/shop/buy-mac/macbook-air/15-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-16gb-memory-256gb"
             />
           </div>
