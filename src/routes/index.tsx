@@ -88,7 +88,7 @@ export default function Home() {
               title="Yoga Pro 7 Ryzen AI (14″, Gen 9)"
               imgSrc="https://p4-ofp.static.pub//fes/cms/2024/08/27/cve0elttp5r1b5dzfwue8zepv4erip058370.png"
               text="For professionals who want lesser fan noise but get the most app compatibility."
-              price={3099}
+              price={1941}
               link="https://www.lenovo.com/sg/en/p/laptops/yoga/yoga-pro-series/lenovo-yoga-pro-7-gen-9-14-inch-amd/len101y0050"
             />
             <Card
