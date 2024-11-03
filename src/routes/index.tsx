@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div class="mx-auto pt-16">
       <div class="lg:px-10 px-5">
-        <h1 class="text-3xl mx-auto text-center">For users with more money (prices are in $SGD)</h1>
+        <h1 class="text-3xl mx-auto text-center">Prices are in $SGD!</h1>
         <ul class="mt-2">
           <li class="text-2xl text-center mb-1.5">For professional work</li>
 
